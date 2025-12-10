@@ -1,5 +1,5 @@
-# Zgodovina sprememb
+## Spremembe vodje projekta (A)
 
-- Inicialna postavitev repozitorija.
-- Dodan README.md.
-- Dodan changelog.md.
+- Dodani CODEOWNERS.
+- Nastavljena zaščita vej.
+- Odobreni PR-ji razvijalcev.
